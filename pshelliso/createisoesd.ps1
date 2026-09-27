@@ -89,7 +89,7 @@ $QemuGaMsiPath      = Join-Path $VirtIoBaseDir 'MSI\qemu-ga-x86_64.msi'
 $WimlibDir          = 'C:\Tools\wimlib'
 $WimlibPath         = Join-Path $WimlibDir 'wimlib-imagex.exe'
 
-$TemplateXmlPath    = 'C:\vscode\iso-forge\templates\autounattend.xml'
+$TemplateXmlPath    = 'C:\vscode\iso-cbase-forge2af\pshelliso\unattend\autounattend.xml'
 
 # ADK Deployment Tools. These are the "version-less" ADK paths; Resolve-Tool also
 # probes versioned folders (Windows Kits\10\...) and PATH before giving up.
