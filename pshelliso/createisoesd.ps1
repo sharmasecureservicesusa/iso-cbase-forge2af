@@ -74,7 +74,7 @@ $PSNativeCommandUseErrorActionPreference = $false
 # ====================================================================================
 # Configuration
 # ====================================================================================
-$SourceIsoFolder    = 'C:\ISOs\win'
+$SourceIsoFolder    = 'C:\repos_isos'
 $OutputIsoFolder    = 'C:\ISO_Output'
 $WorkDir            = 'C:\ISO_WorkDir'
 $MountDir           = 'C:\ISO_Mount'
